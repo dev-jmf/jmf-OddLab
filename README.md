@@ -1,2 +1,2 @@
 # jmf-OddLab
-things i've found and try'ed to do 
+things I've seen and wanted to recreate
